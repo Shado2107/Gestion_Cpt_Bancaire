@@ -25,7 +25,7 @@ public class GestCompteClient
             OperationsService operationsService = new OperationsService();
             Scanner scanner = new Scanner(System.in);
 
-            System.out.println("Vous devez remplir les information demandées pour créer un utilisateur");
+            System.out.println("Veuillez remplir les information demandées pour créer un utilisateur");
             System.out.println("Saisir l'identifiant de l'utilisateur");
             String id = scanner.next();
             System.out.println("Identifiant : "+id);

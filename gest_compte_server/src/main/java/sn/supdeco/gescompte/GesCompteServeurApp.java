@@ -1,6 +1,5 @@
 package sn.supdeco.gescompte;
 
-import com.sun.xml.internal.messaging.saaj.soap.name.NameImpl;
 import sn.supdeco.gescompte.exceptions.CompteDebitException;
 import sn.supdeco.gescompte.services.IOperation;
 import sn.supdeco.gescompte.services.impl.IOperationImpl;
